@@ -1,0 +1,32 @@
+[
+    {
+        "title": "AMH ALGORITHMS",
+        "subtitle": "Python",
+        "link": "https://sourceforge.net/projects/amhalgorithmsamhalgorithms/",
+        "desc": "his unit includes some Algorithms for Python programming language."
+    },
+    {
+        "title": "SELAS GNU/LINUX",
+        "subtitle": "OS",
+        "link": "http://selas.ml/",
+        "desc": "A simple, small, and powerful GNU/Linux server for Raspberry Pi."
+    },
+    {
+        "title": "Uruk Package Managers Simulator",
+        "subtitle": "UPMS",
+        "link": "https://notabug.org/alimiracle/UPMS",
+        "desc": "This program can simulate a famous package managers Commands. This means you can install, uninstall, update, and remove the packages using any package manager you want; it uses your system package manager as back end."
+    },
+    {
+        "title": "IRC LOG RECORDER",
+        "subtitle": "GoLang",
+        "link": "https://notabug.org/alimiracle/UPMS",
+        "desc": "IRC Log Recorder is the IRC bot that watches everything that happens in the IRC channel and records it in log, and it has a web server to enable users to access the logs from web browser and telnet."
+    },
+    {
+        "title": "ROSE CRYPT",
+        "subtitle": "CRYPT",
+        "link": "https://sourceforge.net/projects/rosecrypt/",
+        "desc": "Rose Crypt provides users with a simplistic application that can be used for encrypting files in their computers using a custom passphrase."
+    }   
+]

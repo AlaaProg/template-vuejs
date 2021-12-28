@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nav-link{
+    @apply
+    block 
+    py-2 
+    pr-4 
+    pl-3 
+    rounded 
+    md:text-gray-700 
+    md:p-0 
+    dark:text-white;
+}
+
+.is-active{
+    @apply 
+    bg-blue-700 
+    text-white
+    md:bg-transparent
+    md:text-blue-700;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "title": "TRANSLATOR",
+        "icon": "fa:language",
+        "desc": "I can speak, read and write in Arabic, English, French, Spanish and Italian."
+    },
+    {
+        "title": "LECTURE",
+        "icon": "bi:book-half",
+        "desc": "I make many lectures to train and teach people."
+    },
+    {
+        "title": "Software Development",
+        "icon": "carbon:code",
+        "desc": "I build professional web & desktop applications using cutting edge technologies."
+    },
+    {
+        "title": "WEB HOSTING",
+        "icon": "cib:html5",
+        "desc": "I have a good experience as system admin."
+    },
+    {
+        "title": "MANAGE SERVERS",
+        "icon": "fa-server",
+        "desc": "I have a good experience as system admin."
+    },
+    {
+        "title": "ELECTRONIC CONTROL",
+        "icon": "mdi:controller-classic",
+        "desc": "I build and deploy electronic control systems."
+    }
+]
