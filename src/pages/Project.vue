@@ -5,7 +5,7 @@
             <div class="w-6/12 text-center pb-12 ">
                 <h1 class="text-4xl py-12 font-bold text-gray-600"> My Projects </h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam eos quod, labore provident atque quas repellendus ducimus voluptate iusto alias voluptatum ea tempore dolorem dolore inventore nobis consectetur laudantium ad?
+                    These are some of my projects
                 </p>
             </div>
             <div v-for="(project, i) in Projects" :key=i class="md:w-6/12 w-full px-2">

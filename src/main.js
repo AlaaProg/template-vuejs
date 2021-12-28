@@ -7,13 +7,12 @@ import router from "./router.js"
 
 
 
-
-
 const app = createApp({
     render: ()=> h(App),
     created: () => {
         AOS.init()
     }
 })
+
 app.use(router)
 app.mount('#app')

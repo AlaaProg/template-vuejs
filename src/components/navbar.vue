@@ -1,7 +1,7 @@
 <template>
-    <nav class="bg-white shadow fixed  w-full border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800 z-50">
+    <nav class="bg-white z-50 shadow fixed  w-full border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800 ">
         <div class="container flex flex-wrap justify-between items-center mx-auto">
-            <a href="#" class="flex">
+            <a href="/" class="flex">
                 <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                     Ali Miracle
                 </span>

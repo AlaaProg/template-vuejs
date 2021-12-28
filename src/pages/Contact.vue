@@ -1,7 +1,7 @@
 <template>
-    <div class="py-20 h-screen flex items-center">
-        <div class="fixed h-screen bg-slate-50 w-7/12 z-0"></div>
-        <div class="container mx-auto px-4 z-50">
+    <div class="py-20 md:h-screen flex items-center">
+        <div data-aos="fade-right" data-aos-duration="2000" class="md:block hidden fixed h-screen bg-slate-50 w-7/12 z-0"></div>
+        <div class="container mx-auto px-4 z-40 ">
             <div class="grid md:grid-cols-2 grid-cols-1 md:gap-16 gap-10 items-center justify-center ">
                 <div class="w-full">
                     <h1 class="text-5xl pt-10 py-5 font-semibold text-gray-800 ">
