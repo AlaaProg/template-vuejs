@@ -9,7 +9,10 @@
                 </p>
             </div>
             <div v-for="(project, i) in Projects" :key=i class="md:w-6/12 w-full px-2">
-                <project-card :project="project" ></project-card>
+                <div data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">
+                    <project-card :project="project" ></project-card>
+                </div>
+                
             </div>
         </div>
     </div>

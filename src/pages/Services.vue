@@ -10,7 +10,9 @@
                 </div>
                 <div class="grid md:grid-cols-2 grid-cols-1 gap-12 w-3/4">
                     <template v-for="(service, i) in Services" :key="i">
-                        <service-card :service="service" ></service-card>
+                        <div class="transition ease-in-out  hover:translate-y-1 hover:scale-110 hover:md:scale-150 hover:z-50">
+                            <service-card :service="service" ></service-card>
+                        </div>
                     </template>
                 </div>
             </div>
