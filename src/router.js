@@ -15,8 +15,7 @@ const routes = [
   
 
 export default createRouter({
-    history: createWebHistory(),
-    base: "/template-vuejs/dist/",
+    history: createWebHistory("/template-vuejs/dist/"),
     linkExactActiveClass: 'is-active',
     routes, 
 })
