@@ -2,7 +2,7 @@
     <div class="py-20 md:h-screen flex items-center">
         <div data-aos="fade-right" data-aos-duration="2000" class="md:block hidden fixed h-screen bg-slate-50 w-1/2 z-0"></div>
         <div class="container mx-auto px-4 z-40">
-            <div class="flex  flex-col items-start justify-center lg:w-10/12 w-11/12 mx-auto  ">
+            <div class="flex  flex-col items-start justify-center lg:w-10/12 md:w-11/12 w-full mx-auto  ">
                 <h1 class="py-12 mx-4 text-5xl select-none font-bold font-mono text-gray-600"> Contact Me </h1>
                 <div data-aos="fade-left" data-aos-duration="1500" class="flex lg:flex-row flex-col text-center shadow-xl p-28 bg-white rounded-xl ">
                     <div class="p-6  gap-6" data-aos="fade-right" data-aos-duration="1500">

@@ -10,7 +10,7 @@
                 </div>
                 <div class="grid md:grid-cols-2 grid-cols-1 gap-12 w-3/4">
                     <template v-for="(skill, i) in Skills" :key="i">
-                        <div class="transition ease-in-out  hover:translate-y-1 hover:scale-110 hover:md:scale-150 hover:z-50">
+                        <div class="transition ease-in-out  hover:translate-y-1 hover:scale-110 hover:md:scale-150 hover:z-40">
                             <skill-card :skill="skill" ></skill-card>
                         </div>
                     </template>

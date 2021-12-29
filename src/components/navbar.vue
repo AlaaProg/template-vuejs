@@ -1,11 +1,11 @@
 <template>
     <nav class="bg-white z-50 shadow fixed  w-full border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800 ">
         <div class="container flex flex-wrap justify-between items-center mx-auto">
-            <router-link tag="a" to="/" class="flex">
-                <span class="text-gray-800 select-none self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+            <a to="/" class="flex ">
+                <span class="text-gray-800 bg-white bg-transparent select-none self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                     Ali Miracle
                 </span>
-            </router-link>
+            </a>
         <div class="flex md:order-1">
             <button @click="toggle=!toggle" data-collapse-toggle="#mobile-menu-4" type="button" class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-4" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
