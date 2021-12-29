@@ -67,7 +67,7 @@
     },
     {
         "title": "Delta",
-        "subtitle": "Python",
+        "subtitle": "Golang",
         "link": "https://notabug.org/alimiracle/delta",
         "desc": "Delta is file sharing system its good for local networks or small teams."
     },
