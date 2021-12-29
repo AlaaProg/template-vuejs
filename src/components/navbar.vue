@@ -2,7 +2,7 @@
     <nav class="bg-white z-50 shadow fixed  w-full border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800 ">
         <div class="container flex flex-wrap justify-between items-center mx-auto">
             <router-link tag="a" to="/" class="flex">
-                <span class="text-gray-800 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+                <span class="text-gray-800 select-none self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                     Ali Miracle
                 </span>
             </router-link>
