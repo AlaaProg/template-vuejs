@@ -41,7 +41,7 @@ const itemsNavbar = reactive([
     },
     {
         text:"Skills",
-        link: "/services"
+        link: "/skills"
     },
     {
         text:"Projects",
