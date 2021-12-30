@@ -37,7 +37,7 @@
     },
     {
         "title": "Tabannusi",
-        "subtitle": "Bash",
+        "subtitle": "C",
         "link": "https://notabug.org/alimiracle/tabannusi",
         "desc": "Tabannusi is a continuous building system. it watches git repository, if you make new commit to the repository, the app will build the code in repository and send you the build log in your email."
     },
@@ -97,13 +97,13 @@
     },
     {
         "title": "Rose Crypt",
-        "subtitle": "Crypt ",
+        "subtitle": "Free pascal",
         "link": "https://sourceforge.net/projects/rosecrypt/",
         "desc": "Rose Crypt provides users with a simplistic application that can be used for encrypting files in their computers using a custom passphrase."
     },
     {
         "title": "ROSE PASSWORDS GENERATOR",
-        "subtitle": "generator",
+        "subtitle": "Free pascal",
         "link": "https://sourceforge.net/projects/rosepasswordsgenerator/",
         "desc": "It is used to generate strong passwords."
     },
