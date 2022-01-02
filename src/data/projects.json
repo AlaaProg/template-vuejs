@@ -154,5 +154,17 @@
         "subtitle": "Kotline",
         "link": "https://notabug.org/alimiracle/light_intensity_sensor",
         "desc": "Simple Android application to measure the intensity of light."
+    },
+    {
+        "title": "rose algorithms",
+        "subtitle": "c",
+        "link": "https://sourceforge.net/projects/rosealgorithms/",
+        "desc": "this c library include some important algorithms."
+    },
+    {
+        "title": "Screen Search",
+        "subtitle": "python",
+        "link": "https://notabug.org/alimiracle/screen_search",
+        "desc": "python Library use to Searchs for an image on the screen."
     }
 ]

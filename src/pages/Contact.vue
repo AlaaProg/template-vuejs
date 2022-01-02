@@ -4,8 +4,8 @@
         <div class="container mx-auto px-4 z-40">
             <div class="flex  flex-col items-start justify-center lg:w-10/12 md:w-11/12 w-full mx-auto  ">
                 <h1 class="py-12 mx-4 text-5xl select-none font-bold font-mono text-gray-600"> Contact Me </h1>
-                <div data-aos="fade-left" data-aos-duration="1500" class="flex lg:flex-row flex-col text-center shadow-xl p-28 bg-white rounded-xl ">
-                    <div class="p-6  gap-6" data-aos="fade-right" data-aos-duration="1500">
+                <div data-aos="fade-left" data-aos-duration="1500" class="flex lg:flex-row flex-col text-center mx-auto shadow-xl py-28 md:px-28 px-10  bg-white rounded-xl ">
+                    <div class="p-6  md:gap-6" data-aos="fade-up" data-aos-duration="1500">
                         <Icon class="text-6xl  text-gray-500 text-center inline" icon="bi:phone" ></Icon>
                         <h1 class="font-semibold py-3 text-blue-400">
                             <a title="Phone Number" href="tel:07716803406" class="hover:text-blue-500 cursor-pointer ">
@@ -13,7 +13,7 @@
                             </a>
                         </h1>
                     </div>
-                    <div class="p-6  gap-6" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="p-6   md:gap-6" data-aos="fade-up" data-aos-duration="2000">
                         <Icon class="text-6xl  text-red-400 text-center inline" icon="carbon:email" ></Icon>
                         <h1 class="font-semibold py-3 text-blue-400">
                             <a title="Email" href="mailto:alimiracle@riseup.net" class="hover:text-blue-500 cursor-pointer ">
@@ -21,7 +21,7 @@
                             </a>
                         </h1>
                     </div>
-                    <div class="p-6  gap-6" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="p-6   md:gap-6" data-aos="fade-up" data-aos-duration="2000">
                         <Icon class="text-6xl  text-blue-500 text-center inline" icon="ei:sc-telegram" ></Icon>
                         <h1 class="font-semibold py-3 text-blue-400">
                             <a title="Telegram" href="https://t.me/alimiracle" target="_blank" class="hover:text-blue-500 cursor-pointer ">
@@ -29,7 +29,7 @@
                             </a>
                         </h1>
                     </div>
-                    <div class="p-6  gap-6" data-aos="fade-left" data-aos-duration="2000">
+                    <div class="p-6   md:gap-6" data-aos="fade-up" data-aos-duration="2000">
                         <Icon class="text-6xl  text-blue-500 text-center inline" icon="bi:mastodon" ></Icon>
                         <h1 class="font-semibold py-3 text-blue-400">
                             <a title="Telegram" href="https://mastodon.social/web/@alimiracle@floss.social" target="_blank" class="hover:text-blue-500 cursor-pointer ">
@@ -37,7 +37,7 @@
                             </a>
                         </h1>
                     </div>
-                    <div class="p-6  gap-6" data-aos="fade-left" data-aos-duration="2000">
+                    <div class="p-6   md:gap-6" data-aos="fade-up" data-aos-duration="2000">
                         <Icon class="text-6xl  text-blue-500 text-center inline" icon="bi:chat-square-dots" ></Icon>
                         <h1 class="font-semibold py-3 text-blue-400">
                             <a title="Telegram" >
